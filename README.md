@@ -96,12 +96,7 @@ $$
 
 总体指标定义为：
 
-$$
-\mathrm{Gold\text{-}style\ Hit@1}
-=
-\frac{1}{N}\sum_{i=1}^{N}\mathrm{GoldHit}_i
-$$
-
+Gold-style Hit@1 = (1/N) * \sum_{i=1}^{N} GoldHit_i
 ### 任务二评价标准
 
 评价采用 Accuracy。单样本得分定义为：
