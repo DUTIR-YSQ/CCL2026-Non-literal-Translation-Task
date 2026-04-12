@@ -49,28 +49,15 @@ English translation:
 #### 子任务1
 | 模型结果 | 命中率 | avg_gold_sim | avg_silver_sim | avg_margin |
 |---|---:|---:|---:|---:|
-| Qwen2-7B zero1 | 29.84% | 0.3809 | 0.4777 | -0.0968 |
-| Qwen2-7B 微调1 | 45.97% | 0.3282 | 0.3070 | 0.0211 |
+| Qwen2-7B zero-shot | 29.84% | 0.3809 | 0.4777 | -0.0968 |
+| Qwen2-7B Fine-tune | 45.97% | 0.3282 | 0.3070 | 0.0211 |
 
 #### 子任务2
 | 模型结果 | 准确率 |
 |---|---:|
-| Qwen2-7B zero2 | 26.61% |
-| Qwen2-7B 微调2 | 36.29% |
+| Qwen2-7B zero-shot | 26.61% |
+| Qwen2-7B Fine-tune | 36.29% |
 
-### Llama2-7B
-
-#### 子任务1
-| 模型结果 | 命中率 | avg_gold_sim | avg_silver_sim | avg_margin |
-|---|---:|---:|---:|---:|
-| Llama2-7B zero1 |  |  |  |  |
-| Llama2-7B 微调1 |  |  |  |  |
-
-#### 子任务2
-| 模型结果 | 准确率 |
-|---|---:|
-| Llama2-7B zero2 |  |
-| Llama2-7B 微调2 |  |
 
 ---
 
